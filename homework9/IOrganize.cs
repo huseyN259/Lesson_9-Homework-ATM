@@ -1,0 +1,4 @@
+﻿interface IOrganize
+{
+	void Organize();
+}
